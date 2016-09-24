@@ -1,4 +1,4 @@
-import Home from 'universal/components/Home/Home';
+import Home from 'universal/containers/Home/Home';
 
 export default {
   path: '/',

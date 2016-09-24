@@ -5,7 +5,7 @@ export default (store) => {
     component: AppContainer,
     childRoutes: [
       require('./landing'),
-      require('./missingPage'),
+      // require('./missingPage'),
     ]
   }
 }
